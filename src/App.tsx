@@ -1,9 +1,10 @@
+import './App.css'
 import 'bootstrap/scss/bootstrap.scss'
 
 function App() {
   return (
-    <div className="container py-3">
-      <div className="text-center">hoge</div>
+    <div className="container tw-py-3">
+      <div className="text-center tw-text-3xl">hoge</div>
     </div>
   )
 }
